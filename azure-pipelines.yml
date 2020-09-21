@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'MyUbuntuAgentPool'
+  vmImage: 'MyAgentPool'
   demands:
     - npm
 
